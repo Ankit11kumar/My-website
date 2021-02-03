@@ -1,4 +1,4 @@
-#### Peronal website in Neumorphism UI/UX Design built with ReactJs.
+#### Personal website in Neumorphism UI/UX Design built with ReactJs.
 
 Portfolio/Resume Website using ReactJS.
 
