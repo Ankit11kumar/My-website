@@ -16,7 +16,7 @@ class Contact extends Component {
             <img src={Map} class="co1" alt="Map"></img>
           </div>
         </div>
-        <a href={resume} download="Ankit-webDev-Resume.pdf">
+        <a href={resume} download="Ankit-webDev-resume.pdf">
           <div className="back3">Download Resume</div>
         </a>
         <a href="mailto:ankit02111997@gmail.com">
